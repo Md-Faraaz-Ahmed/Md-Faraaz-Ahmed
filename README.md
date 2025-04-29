@@ -1,12 +1,12 @@
-* Hi there, I'm Mohammed Faraaz Ahmed!* 👋
+**Hi there, I'm Mohammed Faraaz Ahmed!** 👋
 
-### A Passionate CSE Student Specializing in Data Science
+**A Passionate CSE Student Specializing in Data Science**
 
 I'm a Bachelor of Engineering student in **Computer Science and Engineering with a specialization in Data Science**. I’m deeply enthusiastic about leveraging data to uncover insights and tell meaningful stories. With a strong grip on **Data Analytics**, I'm continuously expanding my knowledge and working on exciting projects.
 
 ---
 
-## ⚡ Summary
+**⚡ Summary**
 
 - 📊 Skilled in **Data Analytics** using tools like Python, SQL, PowerBI, and Excel.
 - 🛠️ Experienced with **MongoDB**, **Tableau**, and **VS Code**.
@@ -15,7 +15,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-## 📈 GitHub Stats
+**📈 GitHub Stats**
 
 ![Md-Faraaz-Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Faraaz-Ahmed&show_icons=true&theme=radical)
 
@@ -23,7 +23,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-## 🧰 Languages, Tools & IDEs
+**🧰 Languages, Tools & IDEs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +36,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-## 🤝 Let's Connect!
+**🤝 Let's Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/md-faraaz-ahmed)
 - [Gmail](mailto:m.faraaz.ahmed01@gmail.com)
@@ -45,7 +45,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-## 🎉 Fun Fact
+**🎉 Fun Fact**
 
 **I believe data has a personality – if you listen carefully, it tells you incredible stories!**
 
