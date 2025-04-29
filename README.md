@@ -36,7 +36,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 **🤝 Let's Connect!**
 
-- [LinkedIn](https://www.linkedin.com/in/md-faraaz-ahmed)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-faraaz-ahmed-69739b258)
 - [Gmail](mailto:m.faraaz.ahmed01@gmail.com)
 - [Instagram](https://www.instagram.com/md.faraaz.ahmed)
 - Discord: `Faraaz#1234` *(replace with your actual Discord username if needed)*
