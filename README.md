@@ -39,9 +39,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 - [LinkedIn](https://www.linkedin.com/in/mohammed-faraaz-ahmed-69739b258)
 - [Gmail](mailto:m.faraaz.ahmed01@gmail.com)
 - [Instagram](https://www.instagram.com/faraaz._.ahmed)
-- [Discord]
-(https://discord.gg/md_faraaz_ahmed)
-
+- [Discord](https://discord.gg/md_faraaz_ahmed)
 ---
 
 **🎉 Fun Fact**
