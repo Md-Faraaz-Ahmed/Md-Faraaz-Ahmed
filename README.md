@@ -15,9 +15,11 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-**📊 GitHub Stats**
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Faraaz-Ahmed&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Faraaz-Ahmed&layout=compact&theme=default)
 
 ---
 
