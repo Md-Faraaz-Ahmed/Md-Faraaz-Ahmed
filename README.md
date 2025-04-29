@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Faraaz Ahmed! 👋
+* Hi there, I'm Mohammed Faraaz Ahmed!* 👋
 
 ### A Passionate CSE Student Specializing in Data Science
 
