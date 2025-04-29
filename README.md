@@ -36,10 +36,11 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 **🤝 Let's Connect!**
 
-- [LinkedIn](https://www.linkedin.com/in/mohammed-faraaz-ahmed-69739b258)
-- [Gmail](mailto:m.faraaz.ahmed01@gmail.com)
-- [Instagram](https://www.instagram.com/faraaz._.ahmed)
-- [Discord](https://discord.gg/md_faraaz_ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-faraaz-ahmed-69739b258)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.faraaz.ahmed01@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faraaz._.ahmed)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/md_faraaz_ahmed)
+
 ---
 
 **🎉 Fun Fact**
