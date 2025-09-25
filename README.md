@@ -6,7 +6,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-** Summary**
+**Summary**
 
 -  Skilled in **Data Analytics** using tools like Python, SQL, PowerBI, and Excel.
 -  Experienced with **MongoDB**, **Tableau**, and **VS Code**.
@@ -15,13 +15,13 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-** GitHub Stats**
+**GitHub Stats**
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Faraaz-Ahmed&theme=default)
 
 ---
 
-** Languages, Tools & IDEs**
+**Languages, Tools & IDEs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,7 +34,7 @@ I'm a Bachelor of Engineering student in **Computer Science and Engineering with
 
 ---
 
-** Let's Connect!**
+**Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-faraaz-ahmed-69739b258)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.faraaz.ahmed01@gmail.com)
