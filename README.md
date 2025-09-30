@@ -4,6 +4,8 @@
 
 I'm a Bachelor of Engineering student in **Computer Science and Engineering with a specialization in Data Science**. I’m deeply enthusiastic about leveraging data to uncover insights and tell meaningful stories. With a strong grip on **Data Analytics**, I'm continuously expanding my knowledge and working on exciting projects.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aakashsingh-Rajput&color=blue)
+
 ---
 
 **Summary**
