@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Faraaz-Ahmed/Md-Faraaz-Ahmed/main/Github%20banner.jpg" alt="Mohammed Faraaz Ahmed | GitHub Banner" width="100%" />
-</p>
-
 **Hi there, I'm Mohammed Faraaz Ahmed!** 👋
 
 **A Passionate CSE Student Specializing in Data Science**
