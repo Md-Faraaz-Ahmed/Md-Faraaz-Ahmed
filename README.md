@@ -1,5 +1,3 @@
-![Mohammed Faraaz Ahmed](https://raw.githubusercontent.com/Md-Faraaz-Ahmed/Md-Faraaz-Ahmed/main/Github%20banner1.jpg)
-
 **Hi there, I'm Mohammed Faraaz Ahmed!** 👋
 
 **A Passionate CSE Student Specializing in Data Science**
